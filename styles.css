@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-.player1{
+.player_one{
 	background-color: white;
 	border-radius: 5px;
 	border: 1px solid gray;
@@ -13,7 +13,7 @@ body{
 	background-color:#cccccc;
 }
 
-.player2{
+.player_two{
 	background-color: white;
 	border-radius: 5px;
 	border: 1px solid gray;
